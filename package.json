@@ -1,0 +1,22 @@
+{
+  "name": "carlosbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiimcarglass/carlosbot.git"
+  },
+  "author": "Carlos Sevilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiimcarglass/carlosbot/issues"
+  },
+  "homepage": "https://github.com/hiimcarglass/carlosbot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
